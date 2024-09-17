@@ -156,6 +156,7 @@ header {
     @include background-cover;
     background-position: center;
     background-color: black;
+    background-image: url('../img/header.jpg');
     text-align: center;
     color: white;
     .header-content {
