@@ -1,4 +1,4 @@
-# Puzzled 2024 Website using the Creative Jekyll Theme
+# Puzzled 2026 Website using the Creative Jekyll Theme
 
 Website can be found [Here Puzzled 2024](https://davidkmarzagao.github.io/puzzled/)
 
